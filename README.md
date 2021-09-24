@@ -15,7 +15,7 @@ Created using Javascript,HTML,CSS
 
 ### Snapshot
 
-![snapshot1](https://user-images.githubusercontent.com/44290901/134701489-87a2d63f-4e04-4588-92c9-939d28e60903.PNG)
+![ss1](https://user-images.githubusercontent.com/44290901/134715631-312feec7-1bc5-4587-a923-acf4dd2a1787.PNG)
 
 ### Thanks for going through my project please reach out to me on twitter if you want to give any feedback
 
